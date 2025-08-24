@@ -73,3 +73,4 @@ $ go test --rkati --ninja --all
 The resulting `rkati` binary in `target/*/rkati` is a drop-in replacement for
 `ckati`. Setting `KATI_LOG=trace` at runtime can enable extra debug logging.
 
+
